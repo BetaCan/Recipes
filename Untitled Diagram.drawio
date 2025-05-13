@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.4">
+  <diagram name="Page-1" id="ogKAi6EfoktmK3EHyToI">
+    <mxGraphModel dx="847" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-1" value="&lt;h1&gt;Mobile/ Web App&lt;/h1&gt;&lt;h3&gt;React Native / Expo&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-2" value="&lt;h1&gt;Backend API&lt;/h1&gt;&lt;h3&gt;Node.js&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-3" value="&lt;h1&gt;Database&lt;/h1&gt;&lt;h3&gt;PostgreSQL/MongoDB&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.132;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jJFOQUo6BeM8k_a0Z0iO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="550" as="sourcePoint" />
+            <mxPoint x="50" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-6" value="&lt;h3&gt;Authentication (0auth/JWT)&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-7" value="&lt;h3&gt;Inventory management &lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-8" value="&lt;h3&gt;Shopping List/ Basket &lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.132;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="490" as="sourcePoint" />
+            <mxPoint x="320" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-11" value="&lt;h3&gt;Recipe Suggestion Logic &lt;br&gt;&lt;/h3&gt;&lt;h4&gt;(Match ingredients to the recipes list )&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="519" width="220" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFOQUo6BeM8k_a0Z0iO-12" value="&lt;h3&gt;Recipe management &lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
